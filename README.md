@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
   <br />
       <img src="https://github.com/adrianhajdin/project_3D_developer_portfolio/assets/151519281/4722160a-8e61-403f-a905-728feae1f7e6" alt="Project Banner">
@@ -127,9 +126,3 @@ GitHub: https://github.com/ktirumalaachari
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
 X (Twitter): https://x.com/TiruAchari
-
----
-=======
-# Developer-portfolio-
-Hey everyone This is K Tirumala Achari personal portfolio. I am a aspiring full stack developer investing most of time building scalable and robust application that will help peoples.
->>>>>>> c87e763bd03ad54b3a7bcc6d84e4ce600ecc9176
