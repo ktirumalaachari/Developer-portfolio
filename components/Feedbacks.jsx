@@ -3,12 +3,10 @@ import { motion } from "framer-motion";
 
 import { SectionWrapper } from "../hoc";
 import { fadeIn, textVariant } from "../utils/motion";
-import { testimonials } from "../constants";
 import Image from "next/image";
 
 function FeedbackCard({
 	index,
-	testimonial,
 	name,
 	designation,
 	company,
