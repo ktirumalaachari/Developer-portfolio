@@ -23,7 +23,11 @@
 [![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
 [![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
 
+_Computer Science And Engineering Student_  
+_NIST University, Berhampur Odisha India_
+
 </div>
+
 
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -115,20 +119,22 @@ npm run dev
 
 Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
-### 👨‍💻 Author
+## 👨‍💻 Author
 
-**K Tirumala Achari**  
-Full Stack Developer
+<div align="center">
 
-## <a name="links">🔗 Links</a>
+**K Tirumala Achari**
 
-Social Profiles:
+[![GitHub](https://img.shields.io/badge/GitHub-ktirumalaachari-blue?style=flat&logo=github)](https://github.com/ktirumalaachari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google)](https://ktirumalaachari.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
+[![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
 
-GitHub: https://github.com/ktirumalaachari
+_Computer Science And Engineering Student_  
+_NIST University, Berhampur Odisha India_
 
-LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
+</div>
 
-X (Twitter): https://x.com/TiruAchari
 
 
 
