@@ -16,14 +16,6 @@
   </p>
   <br />
 
-  <div align="center">
-
-    [![GitHub](https://img.shields.io/badge/GitHub-ktirumalaachari-blue?style=flat&logo=github)](https://github.com/ktirumalaachari)
-    [![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google)](https://ktirumalaachari.vercel.app/)
-    [![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
-    [![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
-    
-  </div>
 </div>
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -130,3 +122,4 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
