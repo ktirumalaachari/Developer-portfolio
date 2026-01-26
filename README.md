@@ -16,11 +16,16 @@
   </p>
   <br />
 
-  <div align="center">
-    🔗 <a href="https://github.com/ktirumalaachari" target="_blank"><b>GitHub</b></a> •
-    <a href="https://www.linkedin.com/in/k-tirumala-achari-921106307" target="_blank"><b>LinkedIn</b></a> •
-    <a href="https://x.com/TiruAchari" target="_blank"><b>X (Twitter)</b></a>
-  </div>
+<div align="center">
+  
+[![GitHub](https://img.shields.io/badge/GitHub-ktirumalaachari-blue?style=flat&logo=github)](https://github.com/ktirumalaachari)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-green?style=flat&logo=google)](https://ktirumalaachari.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
+[![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
+
+_Computer Science And Engineering Student_  
+_NIST University, Berhampur Odisha India_
+
 </div>
 ## 📋 <a name="table">Table of Contents</a>
 
@@ -126,3 +131,4 @@ GitHub: https://github.com/ktirumalaachari
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
 X (Twitter): https://x.com/TiruAchari
+
