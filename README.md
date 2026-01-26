@@ -40,15 +40,22 @@ It serves as a personal branding platform for academic and professional opportun
 
 ---
 
-## ⚙️ Tech Stack
+<div align="center">
 
-- React.js  
-- Three.js  
-- React Three Fiber  
-- React Three Drei  
-- Email JS  
-- Vite  
-- Tailwind CSS  
+<h2>⚙️ Tech Stack</h2>
+
+<ul style="list-style: none; padding: 0;">
+  <li>⚛️ React.js</li>
+  <li>🌐 Three.js</li>
+  <li>🧵 React Three Fiber</li>
+  <li>🎨 React Three Drei</li>
+  <li>📧 Email JS</li>
+  <li>⚡ Vite</li>
+  <li>💨 Tailwind CSS</li>
+</ul>
+
+</div>
+
 
 ---
 
@@ -133,6 +140,7 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
 
 
 
