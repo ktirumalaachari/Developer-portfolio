@@ -23,10 +23,8 @@
 [![Email](https://img.shields.io/badge/Email-ktirumalaachari@gmail.com-red?style=flat&logo=gmail)](ktirumalaachari@gmail.com)
 [![University](https://img.shields.io/badge/NIST-University-orange?style=flat)](https://www.nist.edu/)
 
-_Computer Science And Engineering Student_  
-_NIST University, Berhampur Odisha India_
 </div>
-<div align="side">
+
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -34,7 +32,7 @@ _NIST University, Berhampur Odisha India_
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Links](#links)
-</div>
+
 ## <a name="introduction">🤖 Introduction</a>
 
 This is my personal developer portfolio, created to showcase my skills, work, and learning journey in web development. It highlights my ability to build responsive, interactive, and visually appealing interfaces using modern frontend technologies.
@@ -131,6 +129,7 @@ GitHub: https://github.com/ktirumalaachari
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
 X (Twitter): https://x.com/TiruAchari
+
 
 
 
