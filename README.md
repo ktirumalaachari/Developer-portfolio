@@ -40,7 +40,7 @@ It serves as a personal branding platform for academic and professional opportun
 
 ---
 
-## <a name="tech-stack">⚙️ Tech Stack</a>
+## ⚙️ Tech Stack
 
 - React.js  
 - Three.js  
@@ -133,6 +133,7 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
 
 
 
