@@ -26,7 +26,7 @@
 _Computer Science And Engineering Student_  
 _NIST University, Berhampur Odisha India_
 </div>
-<div align="liftside">
+<div align="side">
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -131,5 +131,6 @@ GitHub: https://github.com/ktirumalaachari
 LinkedIn: https://www.linkedin.com/in/k-tirumala-achari-921106307
 
 X (Twitter): https://x.com/TiruAchari
+
 
 
