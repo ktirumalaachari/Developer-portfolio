@@ -31,11 +31,11 @@ _NIST University, Berhampur Odisha India_
 
 ## 📋 <a name="table">Table of Contents</a>
 
-1. 🤖 [Introduction](#introduction)
-2. ⚙️ [Tech Stack](#tech-stack)
-3. 🔋 [Features](#features)
-4. 🤸 [Quick Start](#quick-start)
-5. 🔗 [Links](#links)
+🤖 [Introduction](#introduction)
+⚙️ [Tech Stack](#tech-stack)
+🔋 [Features](#features)
+🤸 [Quick Start](#quick-start)
+🔗 [Links](#links)
 
 ## <a name="introduction">🤖 Introduction</a>
 
@@ -134,6 +134,7 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
 
 
 
