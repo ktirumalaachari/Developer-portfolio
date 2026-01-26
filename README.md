@@ -120,10 +120,6 @@ Open [http://localhost:5173](http://localhost:5173) in your browser to view the 
 **K Tirumala Achari**  
 Full Stack Developer
 
-## <a name="links">🔗 Links</a>
-
-Social Profiles:
-
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-ktirumalaachari-blue?style=flat&logo=github)](https://github.com/ktirumalaachari)
@@ -134,3 +130,4 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
