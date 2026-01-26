@@ -303,7 +303,7 @@ const projects = [
   {
     name: "Credit-Card-Fraud-Detection",
     description:
-      "An intelligent machine learning system designed to detect fraudulent credit card transactions using multiple ML algorithms and ensemble methods. The system analyzes transaction patterns, identifies anomalies, and provides real-time fraud detection with performance evaluation metrics and visualization for better decision-making",
+      "A machine learning–based credit card fraud detection system using a hybrid ensemble of Random Forest and XGBoost. The project handles highly imbalanced data using SMOTE, performs feature engineering, threshold optimization, and evaluates performance and confusion matrices. Includes model saving and real-time fraud prediction",
     tags: [
       {
         name: "html",
