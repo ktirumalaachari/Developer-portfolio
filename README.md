@@ -26,7 +26,7 @@
 _Computer Science And Engineering Student_  
 _NIST University, Berhampur Odisha India_
 </div>
-
+<div align="liftside">
 ## 📋 <a name="table">Table of Contents</a>
 
 1. 🤖 [Introduction](#introduction)
@@ -34,7 +34,7 @@ _NIST University, Berhampur Odisha India_
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 5. 🔗 [Links](#links)
-
+</div>
 ## <a name="introduction">🤖 Introduction</a>
 
 This is my personal developer portfolio, created to showcase my skills, work, and learning journey in web development. It highlights my ability to build responsive, interactive, and visually appealing interfaces using modern frontend technologies.
