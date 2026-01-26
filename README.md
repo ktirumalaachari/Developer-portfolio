@@ -68,7 +68,7 @@ and many more, including code architecture and reusability
 **Cloning the Repository**
 
 ``bash
-git clone https://github.com/ktirumalaachari/your-repo-name.git
+git clone https://github.com/ktirumalaachari/Developer-Portfolio.git
 cd your-repo-name
 
 **Installation**
@@ -114,6 +114,7 @@ _Computer Science And Engineering Student_
 _NIST University, Berhampur Odisha India_
 
 </div>
+
 
 
 
