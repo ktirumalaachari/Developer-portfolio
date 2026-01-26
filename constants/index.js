@@ -328,7 +328,7 @@ const projects = [
     ],
     image: "/assets/projects/creditcard.png",
     source_code_link:
-      "https://github.com/ktirumalaachari/Credit-Card-Fraud-Detection",
+      "https://github.com/ktirumalaachari/Credit-Card-Fraud-Detection-Using-Machine-Learning.git",
   },
   {
     name: "Spotify Clone",
